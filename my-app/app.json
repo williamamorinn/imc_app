@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "imc_app",
-    "slug": "imc_app",
+    "name": "my-app",
+    "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,16 +21,10 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.robsonla.imc_app"
+      }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "6f3f9f78-0061-40d2-a9a8-b25aee48952d"
-      }
     }
   }
 }
